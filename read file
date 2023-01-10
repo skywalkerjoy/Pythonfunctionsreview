@@ -1,0 +1,3 @@
+rstrip().  # read file then print without the last blank line 
+with open('filename','r') as f  # open file as filename and it is an object ,name is f or whaterver you call it
+for line in f.readlines  
